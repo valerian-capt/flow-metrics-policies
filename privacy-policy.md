@@ -2,7 +2,7 @@
 
 Effective date: 20 October 2026
 
-Reviewed for extension version: 0.93.0 (cloud production)
+Reviewed for extension version: 0.93.1 (cloud production)
 
 Last reviewed: 2026-10-20
 
